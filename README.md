@@ -10,11 +10,13 @@ ____
 
 ##Procedure: 
 
-1. Run code
+1. Install dependencies
+> npm install
+2. Run code
 > npm run start
-2. Make a post request on http://localhost:7000/api/partical/create 
+3. Make a post request on http://localhost:7000/api/partical/create 
  >key: first, value: first.json
  >key: second, value: second.json
 ![](screen.png)
-3. Check out the result in Postman respose or in your local db with MongoDBCompass
+4. Check out the result in Postman respose or in your local db with MongoDBCompass
 
