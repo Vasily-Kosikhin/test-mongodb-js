@@ -1,14 +1,12 @@
-
-#___Prerequisites:___
+## ___Prerequisites:___
 
 1. node
 2. mongodb
 3. npm
 4. (optional) Postman 
 5. (optional) MongoDBCompass
-____
 
-#___Procedure:___ 
+## ___Procedure:___ 
 
 1. Install dependencies
 > npm install
