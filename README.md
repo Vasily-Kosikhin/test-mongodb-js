@@ -1,5 +1,5 @@
 
-###Prerequisites:
+___Prerequisites:___
 
 1. node
 2. mongodb
@@ -8,7 +8,7 @@
 5. (optional) MongoDBCompass
 ____
 
-###Procedure: 
+___Procedure:___ 
 
 1. Install dependencies
 > npm install
