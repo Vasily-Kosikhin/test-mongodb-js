@@ -1,5 +1,5 @@
 
-##Prerequisites: 
+###Prerequisites:
 
 1. node
 2. mongodb
@@ -8,7 +8,7 @@
 5. (optional) MongoDBCompass
 ____
 
-##Procedure: 
+###Procedure: 
 
 1. Install dependencies
 > npm install
@@ -18,5 +18,5 @@ ____
  >key: first, value: first.json
  >key: second, value: second.json
 ![](./assets/screen.png)
-1. Check out the result in Postman respose or in your local db with MongoDBCompass
+4. Check out the result in Postman respose or in your local db with MongoDBCompass
 
