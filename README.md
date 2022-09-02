@@ -17,6 +17,6 @@ ____
 3. Make a post request on http://localhost:7000/api/partical/create 
  >key: first, value: first.json
  >key: second, value: second.json
-![](screen.png)
-4. Check out the result in Postman respose or in your local db with MongoDBCompass
+![](./assets/screen.png)
+1. Check out the result in Postman respose or in your local db with MongoDBCompass
 
